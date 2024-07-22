@@ -1,0 +1,8 @@
+nav ul li{display: inline;margin-right: 15%;}
+nav{background-color: #76aeee;padding: 10px;}
+nav ul li a{color: rgb(228, 210, 176);text-decoration: none;}
+nav ul li a:hover{color: aquamarine;text-decoration:underline;}
+section{padding: 1%;}
+body{background-color: rgb(224, 182, 171);}
+footer{background-color: #9be2e2;color: #fff;text-align:
+     center;padding: 9px;}
